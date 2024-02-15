@@ -1,4 +1,4 @@
-.ONESHELL:
+make bootstrap.ONESHELL:
 .PHONY: clean clean-test clean-pyc clean-build build help
 .DEFAULT_GOAL := help
 
